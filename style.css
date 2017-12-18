@@ -13,6 +13,10 @@
   border: 10px solid black;
   left:100px;
   top:100px;
+  padding-bottom:1px;
+  padding-left:1px;
+  padding-right:1px;
+  padding-top:1px;
 }
 #tom {
   width:200px;
@@ -23,6 +27,11 @@
   border: 10px solid black;
   left:700px;
   top:100px;
+  padding-bottom:1px;
+  padding-left:1px;
+  padding-right:1px;
+  padding-top:1px;
+  float:;
 }
 
 
@@ -46,6 +55,18 @@ h2{
 }
 p{
   font-family: 'Cabin', sans-serif;
-  font-size:20px;
+  font-size:30px;
+  color:blue;
+}
+span{
+  color:red;
+}
+/*p{*/
+/*  font-size:30px;*/
+/*  color:blue;*/
+/*}*/
+
+.nyc{
+  font-family: 'Bungee', cursive;
   color:red;
 }
