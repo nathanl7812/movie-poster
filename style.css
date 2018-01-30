@@ -4,54 +4,69 @@
 /*}*/
 
 
-/*#kid {*/
-/*  width:200px;*/
-/*  height:200px;*/
-/*  margin-left: auto;*/
-/*  margin-right: auto;*/
-/*  display: block;*/
-/*  border: 10px solid black;*/
-/*  left:100px;*/
-/*  top:100px;*/
-/*  padding-bottom:1px;*/
-/*  padding-left:1px;*/
-/*  padding-right:1px;*/
-/*  padding-top:1px;*/
-/*}*/
-/*#tom {*/
-/*  width:200px;*/
-/*  height:200px;*/
-/*  margin-left: auto;*/
-/*  margin-right: auto;*/
-/*  display: block;*/
-/*  border: 10px solid black;*/
-/*  left:700px;*/
-/*  top:100px;*/
-/*  padding-bottom:1px;*/
-/*  padding-left:1px;*/
-/*  padding-right:1px;*/
-/*  padding-top:1px;*/
-/*  float:;*/
+#kid {
+  width:200px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 10px solid black;
+  left:100px;
+  top:100px;
+  padding-bottom:1px;
+  padding-left:1px;
+  padding-right:1px;
+  padding-top:1px;
+}
+#tom {
+  width:200px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 10px solid black;
+  left:700px;
+  top:100px;
+  padding-bottom:1px;
+  padding-left:1px;
+  padding-right:1px;
+  padding-top:1px;
+  float:;
+}
+
+
+#background {
+  background-image: url("images/image.jpg");
+  width:1000px;
+  height:800px;
+}
+h1{
+  font-family: 'Bungee', cursive;
+  color:red;
+}
+h3{
+  font-family: 'Cabin', sans-serif;
+  color:red;
+}
+
+h2{
+  font-family: 'Bungee', cursive;
+  color:red;
+}
+p{
+  font-family: 'Cabin', sans-serif;
+  font-size:30px;
+  color:yellow;
+}
+span{
+  color:red;
+}
+/*p{*/
+/*  font-size:30px;*/
+/*  color:blue;*/
 /*}*/
 
-h1{
-  color:white;
-  text-shadow: 2px 2px pink;
-}
-h2{
-  color:white;
-  margin-top: 100px;
-}
-/*box{*/
-/*  width:100px;*/
-/*  height:100px;*/
-/*  color:black;*/
-/*}*/
-#square {
-	width: 100px;
-	height: 100px;
-	background: red;
-}
-#square{
-  margin-left: 100px;
+.nyc{
+  font-family: 'Bungee', cursive;
+  color:red;
 }
